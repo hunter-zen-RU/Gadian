@@ -2,7 +2,7 @@
 ## A ANDROID APK DECOMPILER ANALYZER ,EDITOR AND COMPILER
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/f5eee42a-3f57-41dc-ae72-c5d6a93b3cd1
+VIEW AND TEST IT ONLINE VIA >> https://hunter-zen-ru.github.io/Gadian.com/
 
 ## Run Locally
 
