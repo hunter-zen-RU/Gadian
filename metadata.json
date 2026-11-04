@@ -1,0 +1,6 @@
+{
+  "name": "GADIAN APK Analyzer & Security Terminal",
+  "description": "Professional developer-ready APK static and heuristic security analysis suite with terminal UX, offline inspection engine, online Gemini deep threat intelligence, and downloadable AIDE-ready Android project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
